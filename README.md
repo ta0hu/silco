@@ -18,3 +18,6 @@ python train_det_ssd_silco.py
 - more stable evaluation(episode-based)
 - pytorch upgrade from torch0.4 to torch1.0
 
+
+For questions, please send me email. 
+
